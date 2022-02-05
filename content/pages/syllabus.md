@@ -86,8 +86,89 @@ Introduction to Course and Background
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Designing your life {{< br >}}{{< br >}} Elements of living an extraordinary life {{< br >}}{{< br >}} Uncovering your theories of life {{< br >}}{{< br >}} Access to change {{< br >}}{{< br >}} Principles of communication {{< br >}}{{< br >}} Change through telling the truth {{< br >}}{{< br >}} Impact of your past on your current life {{< br >}}{{< br >}}  | Assignment 1 due 2 days before Ses #1 |
-| 2 |  {{< br >}}{{< br >}} Laws {{< br >}}{{< br >}} Personal integrity {{< br >}}{{< br >}}  | Assignment 2 due |
-| 3 |  {{< br >}}{{< br >}} Why tell the truth? {{< br >}}{{< br >}} Grace and wisdom {{< br >}}{{< br >}} Make peace with your flaws and where you are a jerk {{< br >}}{{< br >}} Go for what you truly want {{< br >}}{{< br >}}  | Assignment 3 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Designing your life
+
+Elements of living an extraordinary life
+
+Uncovering your theories of life
+
+Access to change
+
+Principles of communication
+
+Change through telling the truth
+
+Impact of your past on your current life
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due 2 days before Ses #1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Laws
+
+Personal integrity
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Why tell the truth?
+
+Grace and wisdom
+
+Make peace with your flaws and where you are a jerk
+
+Go for what you truly want
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
